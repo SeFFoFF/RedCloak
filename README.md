@@ -1,4 +1,4 @@
-# RedCloak
+# :video_game: RedCloak
 This is the source code for the my first game which I created for the course work!
 
 ![alt text](Pic/1.png)
